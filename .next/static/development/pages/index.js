@@ -66,14 +66,23 @@ var Index = function Index() {
       lineNumber: 6,
       columnNumber: 9
     }
-  }, "Home"));
+  }, "Home"), __jsx("a", {
+    href: "/api/login",
+    className: "py-4 px-4 rounded bg-pink-800 font-bold shadow-xl hover:shadow block w-1/4 text-center mx-auto text-white",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 9
+    }
+  }, "Comece aqui!"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
 /***/ }),
 
-/***/ 5:
+/***/ 1:
 /*!************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FVolumes%2Fexterno%2Fmydailystatus%2Fpages%2Findex.js ***!
   \************************************************************************************************************************/
@@ -96,5 +105,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[5,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
